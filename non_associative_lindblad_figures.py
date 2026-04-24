@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 Two-qubit TFIM + Lindblad (T=0) + Non-Associative (NA) Simulation
 -----------------------------------------------------------------
